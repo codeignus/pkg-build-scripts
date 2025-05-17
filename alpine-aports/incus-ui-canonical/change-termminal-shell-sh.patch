@@ -1,6 +1,6 @@
 --- ./src/pages/instances/InstanceTerminal.tsx.orig
 +++ ./src/pages/instances/InstanceTerminal.tsx
-@@ -33,7 +33,7 @@
+@@ -34,7 +34,7 @@
  };
  
  export const defaultPayload: TerminalConnectPayload = {
